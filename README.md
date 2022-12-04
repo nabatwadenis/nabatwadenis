@@ -7,9 +7,8 @@
 - 🌱 I’m currently learning CCNA module 3
 - 👯 I’m looking to collaborate on NodeJS
 - 🤔 I’m looking for help with React Native
-- 💬 Ask me about Webhoks, Api integration,.
+- 💬 Ask me about React best practices, React hooks,.
 - 📫 How to reach me: dnabatwa9@gmail.com
-- ⚡ Fun fact: Football and Music
 <hr>
 <hr>
 
