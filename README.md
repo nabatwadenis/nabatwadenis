@@ -3,13 +3,12 @@
 
 **nabatwadenis/nabatwadenis** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on Nodejs javascript
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🔭 I’m currently working on springboot java
+- 🌱 I’m currently learning CCNA module 3
 - 👯 I’m looking to collaborate on NodeJS
-- 🤔 I’m looking for help with React JS
-- 💬 Ask me about Data cleaning, Exploration and Visualization.
+- 🤔 I’m looking for help with React Native
+- 💬 Ask me about Webhoks, Api integration,.
 - 📫 How to reach me: dnabatwa9@gmail.com
-- 😄 Pronouns: Mr Denis Nabatwa
 - ⚡ Fun fact: Football and Music
 <hr>
 <hr>
